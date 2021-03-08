@@ -2,7 +2,6 @@ import { StatusBar } from 'expo-status-bar';
 import React from 'react';
 import { ScrollView, StyleSheet, Text, View } from 'react-native';
 import Employee from './Profile';
-import EmployeeDetails from './EmployeeDetails';
 import { Button } from 'react-native';
 
 export default function App() {
